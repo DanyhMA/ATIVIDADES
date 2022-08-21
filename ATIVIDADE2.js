@@ -1,0 +1,1 @@
+//O editor de código fonte escolhido foi o visual studio code, por ser mais leve e pratico para os aprendizados do curso.
